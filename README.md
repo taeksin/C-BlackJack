@@ -4,4 +4,7 @@
 	<img src="https://img.shields.io/badge/C-007396?style=flat&logo=C&logoColor=white" />
 
 </div>
-![1, 시작화면](https://github.com/taeksin/C-BlackJack/assets/90402009/1e914c1a-f5f0-4e12-bf62-cd07667d8632)
+
+<p align="center">
+  <img src="https://github.com/taeksin/C-BlackJack/assets/90402009/1e914c1a-f5f0-4e12-bf62-cd07667d8632">
+</p>
